@@ -1,5 +1,5 @@
 /**
- * Honey Lemonade v1.0.0 (LemonadeJS v2.6.1)
+ * Honey Lemonade v2.6.1 (LemonadeJS v2.6.1)
  * https://github.com/FrontEndNeo/HoneyLemonade
  *
  * LemonadeJS Website: https://lemonadejs.net

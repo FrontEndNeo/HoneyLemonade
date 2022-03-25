@@ -861,7 +861,7 @@
 
     function importLemons (lemons, container, parent) {
         container = container || {};
-        self = self || {};
+        parent = parent || {};
 
         for(var i=0;i<lemons.length;i++){
             container[lemons[i].name] = importLemon(lemons[i].path, parent, container, !lemons[i].inline);
